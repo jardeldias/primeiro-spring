@@ -1,2 +1,3 @@
 Ele pode ser acessado localmente em:
-http://localhost:8080/ola
+Link para a tela do Swagger para listar as rotas e com as requisições http
+http://localhost:8080/swagger-ui/index.html
